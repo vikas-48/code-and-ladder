@@ -10,7 +10,7 @@
 - Choose **Offline Mode** from the home screen.
 
 ### 2. 👥 Enter Players
-- Input the **number of players or teams** (e.g., 3).
+- Input the **number of players or teams** (e.g.,3).
 - Enter the **name of each player/team** (e.g., Team A, Team B, Team C).
 
 ### 3. 🎲 Dice Rolls
